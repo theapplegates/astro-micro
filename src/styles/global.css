@@ -4,7 +4,7 @@
 
 html {
   overflow-y: auto;
-  color-scheme: light;
+  color-scheme: white;
   scroll-padding-top: 100px;
 }
 
@@ -117,4 +117,15 @@ pre {
 
 .copy-code:active {
   @apply scale-90 transition-transform;
+}
+
+@font-face {
+    font-family: 'wotfardregular';
+    src: url('wotfard-regular-webfont.eot');
+    src: url('wotfard-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/src/assets/fonts/wotfard-regular-webfont.woff2') format('woff2'),
+         url('/src/assets/fonts/wotfard-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
 }
