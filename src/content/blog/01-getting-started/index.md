@@ -4,7 +4,7 @@ description: "Hit the ground running."
 date: "2024-03-22"
 ---
 
----
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/e_shadow:85,x_12,y_12,ar_16:9,c_fill/c_limit,w_auto:breakpoints_400_2500_30_15/tim-winkler-PXp-SCJWWIM-unsplash.jxl" sizes="100vw" />
 
 ## Install astro-micro
 
